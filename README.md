@@ -1,8 +1,4 @@
-# Rhives_RetailSales_PowerBI_Project
-A Power BI retail sales analysis project featuring interactive dashboards, KPIs, and visual insights. Includes basic, advanced, and performance dashboards analyzing sales, profit, customer segments, categories, and monthly trends for data-driven decision making.
-
-
-# Retail Sales Analysis – Power BI Project (Week 2)
+# Retail Sales Analysis – Power BI Project
 
 This project focuses on analyzing retail sales data using **Microsoft Power BI**. The goal is to understand sales trends, profit distribution, customer behavior, and category-wise performance through interactive dashboards and visual reports. The analysis provides valuable insights that support data-driven decision-making and business growth.
 
